@@ -1,7 +1,6 @@
 # Brice Favre
 ## Senior PHP Developer, enthusiastic and generalist
 
-> [Download PDF](resume.pdf)
 > [brice dot favre AT gmail dot com](brice.favre+pro@gmail.com)
 > 06 61 86 67 88
 
@@ -9,14 +8,14 @@
 
 ### Profile {#profile}
 
-PHP Expert, i also developped an interest inweb development as a whole. I can configure server as doing a html integration if i need too. 
+PHP Expert, I also developped an interest in Web Development as a whole. I can configure server as doing a html integration if i need too. 
 
 ------
 
 ### Skills {#skills}
 
 * Web Development
-  : Full stack development: from backend (PHP,Scala) to frontend (JavaScript)
+  : Full stack development: from backend (PHP, Scala) to frontend (javascript)
 
 * Team management
   : Organize and facilitate meeting and life of the team
@@ -49,12 +48,15 @@ talkSpirit/blogSpirit
 
 SQLI
 : *Developer and technical product manager*
+	__2007-2011__
 
 NTSys 
 : *Developer*
+	__2005-2007__
 
-Cegetel:
+Cegetel
 : *Developer*
+	__2002-2005__
 
 ### Footer {#footer}
 
