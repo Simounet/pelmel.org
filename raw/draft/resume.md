@@ -1,14 +1,14 @@
 # Brice Favre
 ## Senior PHP Developer, enthusiastic and generalist
 
-> [brice dot favre AT gmail dot com](brice.favre+pro@gmail.com)
+> [brice dot favre AT gmail dot com](mailto:brice.favre+pro@gmail.com)
 > 06 61 86 67 88
 
 ------
 
 ### Profile {#profile}
 
-PHP Expert, I also developped an interest in Web Development as a whole. I can configure a server as doing html integration. I'm mostly experienced in backend development (Creating an API, developping a back office)
+PHP Expert, offering more than 14 years of expereience in web web developement. Autonomous and skilled in all aspect of web development (front-end, backend and server's administration). 
 
 ------
 
@@ -33,22 +33,30 @@ PHP Expert, I also developped an interest in Web Development as a whole. I can c
 1. MongoDB
 1. Git/Github
 1. Javascript
+1. AngularJS
 1. Bazaar
 1. Linux/Shell
 1. Vagrant
+1. Docker
+1. SVN
 
 ------
 
 ### Experience
 
-talkSpirit/blogSpirit
+blogSpirit then talkSpirit
 : *Lead Developer*
 	__2011-2015__
-	In charge of the development of the talkSpirit product, an enterprise social network. I also take in charge the development of holaspirit's backend.
+	Drove all phases of [holaSpirit's](http://www.holaspirit.com) development and developped some parts of the API.
+	Conceived and developed the front end of talkSpirit product.
+	Trained teammates about product's new features.
+	Presented my work during a conference. Video available [there](https://vimeo.com/57088529) (in french).
 
 SQLI
 : *Developer and technical product manager*
 	__2007-2011__
+	Led a team of PHP Architect. 
+	Conducted and developed project.	
 
 NTSys 
 : *Developer*
@@ -60,4 +68,4 @@ Cegetel
 
 ### Footer {#footer}
 
-Brice Favre -- [brice.favre@gmail.com](brice DOT favre AT gmail DOT com) -- +336 61 86 67 88
+Brice Favre -- <brice.favre+pro@gmail.com> -- +336 61 86 67 88
