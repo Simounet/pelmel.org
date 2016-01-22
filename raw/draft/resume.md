@@ -8,7 +8,7 @@
 
 ### Profile {#profile}
 
-PHP Expert, I also developped an interest in Web Development as a whole. I can configure server as doing a html integration if i need too. 
+PHP Expert, I also developped an interest in Web Development as a whole. I can configure a server as doing html integration. I'm mostly experienced in backend development (Creating an API, developping a back office)
 
 ------
 
